@@ -1,0 +1,30 @@
+<mjml lang="fr">
+  <mj-head>
+    <mj-title>FCJMP newsletter</mj-title>
+    <mj-preview> test </mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Montserrat" font-size="13px" />
+      <mj-class name="title" />
+      <mj-class
+        name="title-section"
+        font-size="25.99px !important"
+        color="#279989"
+      />
+      <mj-class
+        name="separator-article"
+        background-color="hsl(44,100,57/50%)"
+        border-width="2px"
+        border-style="solid"
+      />
+      <mj-class name="separator-header" background-color="blue" />
+      <mj-class name="anchor-link" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="white">
+    <mj-include path="./components/header.mjml" />
+    <mj-include path="./components/separatorHeader.mjml" />
+
+    <mj-include path="./components/echos.mjml" />
+    <mj-include path="./components/separatorSection.mjml" />
+  </mj-body>
+</mjml>

@@ -1,0 +1,7 @@
+<mj-section border-radius="10px">
+  <mj-column width="100%" width="548px" border-radius="10px">
+    <mj-raw>
+      <div class="separator-header"></div>
+    </mj-raw>
+  </mj-column>
+</mj-section>

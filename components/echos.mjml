@@ -1,0 +1,50 @@
+<mj-section>
+  <mj-column>
+    <mj-text mj-class="title-section">
+      <h1 id="#echos">Èchos des membres</h1>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="50%">
+    <mj-image src="./img/leparallele.png" alt="" />
+    <mj-text>
+      <h2 mj-calss="">MJ d'Auderghem</h2>
+    </mj-text>
+    <mj-text>
+      <p>
+        La MJ propose un stage durant les vacances d'automne autour d'halloween.
+        Une semaine avec une nuit hantée. En effet, la MJ sera transformée en
+        maison hantée et l'équipe vous prépare pleins de surprises effrayantes.
+      </p>
+    </mj-text>
+    <mj-text>
+      <p><b>Quand ?</b> Du 23 au 27 octobre 2023.</p>
+    </mj-text>
+    <mj-text>
+      <p><b>Où ?</b> Waversesteenweg 1979, 1160 Auderghem</p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="50%">
+    <mj-image src="./img/cinex.png" alt="" />
+    <mj-text>
+      <h2 mj-class="">Le « Cinex »</h2>
+    </mj-text>
+    <mj-text>
+      <p>
+        Le "Cinex" fête ses 100 ans. Durant une semaine, on aura l'occasion de
+        (re)découvrir ce magnifique espace socioculturel, de participer à
+        différentes activités: exposition, théâtre, cinéma, concert, jeu ancien,
+        folklore,...
+      </p>
+    </mj-text>
+    <mj-text>
+      <p><b>Quand ?</b>Du 03 novembre au 12 novembre 2023.</p>
+    </mj-text>
+    <mj-text>
+      <p><b>Où ?</b>Rue Gustave-Delperdange 1, 6600 Bastogne</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-include path="./separatorArticle.mjml" />
