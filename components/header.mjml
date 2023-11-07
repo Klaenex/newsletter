@@ -5,18 +5,25 @@
       alt="Logo fcjmp"
       width="150px"
       href="http://www.fcjmp.be/"
+      css-class="logo-fcjmp"
     />
   </mj-column>
 </mj-section>
 
-<mj-section>
+<mj-section css-class="menu">
   <mj-column>
-    <mj-text><a href="#echos">Èchos des membres</a></mj-text>
+    <mj-text css-class="anchor-link" align="center"
+      ><a href="#echos">Èchos des membres</a></mj-text
+    >
   </mj-column>
   <mj-column>
-    <mj-text><a href="#breves">Brèves du secteur</a></mj-text>
+    <mj-text css-class="anchor-link" align="center"
+      ><a href="#breves">Brèves du secteur</a></mj-text
+    >
   </mj-column>
   <mj-column>
-    <mj-text><a href="#emploi">Offre d'emploi</a></mj-text>
+    <mj-text css-class="anchor-link" align="center"
+      ><a href="#emploi">Offre d'emploi</a></mj-text
+    >
   </mj-column>
 </mj-section>

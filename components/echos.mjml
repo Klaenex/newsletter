@@ -1,15 +1,15 @@
 <mj-section>
   <mj-column>
-    <mj-text mj-class="title-section">
-      <h1 id="#echos">Èchos des membres</h1>
+    <mj-text>
+      <h1 id="#echos" class="title title-section">Èchos des membres</h1>
     </mj-text>
   </mj-column>
 </mj-section>
 <mj-section>
   <mj-column width="50%">
     <mj-image src="./img/leparallele.png" alt="" />
-    <mj-text>
-      <h2 mj-calss="">MJ d'Auderghem</h2>
+    <mj-text mj-class="title">
+      <h2 class="title">MJ d'Auderghem</h2>
     </mj-text>
     <mj-text>
       <p>

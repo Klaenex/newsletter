@@ -1,29 +1,33 @@
 <mjml lang="fr">
   <mj-head>
     <mj-title>FCJMP newsletter</mj-title>
-    <mj-preview> test </mj-preview>
+
     <mj-attributes>
       <mj-all font-family="Montserrat" font-size="13px" />
-      <mj-class name="title" />
-      <mj-class
-        name="title-section"
-        font-size="25.99px !important"
-        color="#279989"
-      />
-      <mj-class
-        name="separator-article"
-        background-color="hsl(44,100,57/50%)"
-        border-width="2px"
-        border-style="solid"
-      />
-      <mj-class name="separator-header" background-color="blue" />
-      <mj-class name="anchor-link" />
+      <mj-section padding="0px"></mj-section>
+      <mj-column padding="0px"></mj-column>
+      <mj-text
+        font-weight="400"
+        font-size="13px"
+        color="black"
+        padding="0"
+      ></mj-text>
+      <mj-image border-radius="13px" padding="0" />
     </mj-attributes>
+
+    <mj-style inline="inline">
+      p{margin:0; padding-bottom:13px;} .logo-fcjmp{ padding-bottom:26px
+      !important; } .anchor-link a{ font-weight:600;
+      text-align:center!important; color:#279989; } .menu{
+      max-width:550px!important; } .divider{ padding:13px 26px!important; }
+      .title{font-size:18.38px; margin:0; padding: 13px 0px; }
+      .title-section{color:#279989; text-align:center; font-size:25.99px;
+      padding-top:26px; padding-bottom:39px; font-weight:800; margin:0;}
+    </mj-style>
   </mj-head>
   <mj-body background-color="white">
     <mj-include path="./components/header.mjml" />
     <mj-include path="./components/separatorHeader.mjml" />
-
     <mj-include path="./components/echos.mjml" />
     <mj-include path="./components/separatorSection.mjml" />
   </mj-body>
