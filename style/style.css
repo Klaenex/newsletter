@@ -1,0 +1,50 @@
+p {
+    margin: 0;
+    padding-bottom: 13px;
+}
+
+.logo-fcjmp {
+    padding-bottom: 26px !important;
+}
+
+.anchor-link a {
+    font-weight: 600;
+    text-align: center !important;
+    color: #279989;
+}
+
+.menu {
+    max-width: 550px !important;
+}
+
+.divider {
+    padding: 13px 26px !important;
+}
+
+.divider p {
+    padding: 0;
+}
+
+.title {
+    font-size: 18.38px;
+    margin: 0;
+    padding: 13px 0px;
+}
+
+.title-section {
+    color: #279989;
+    text-align: center;
+    font-size: 25.99px;
+    padding-top: 26px;
+    padding-bottom: 39px;
+    font-weight: 800;
+    margin: 0;
+}
+
+.section-content {
+    padding: 0 26px;
+}
+
+.column-double {
+    padding: 0 13px;
+}
