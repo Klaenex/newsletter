@@ -1,7 +1,7 @@
 <mj-section>
   <mj-column>
     <mj-text>
-      <h1 id="#breves" class="title title-section">Brèves du secteur</h1>
+      <h1 id="breves" class="title title-section">Brèves du secteur</h1>
     </mj-text>
   </mj-column>
 </mj-section>
