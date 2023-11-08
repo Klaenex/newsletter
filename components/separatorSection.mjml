@@ -1,5 +1,9 @@
 <mj-section>
   <mj-column width="95.26%">
-    <mj-divider border-color="#ffc322" />
+    <mj-divider
+      border-color="rgb(255,225,145)"
+      css-class="divider"
+      border-width="2px"
+    />
   </mj-column>
 </mj-section>

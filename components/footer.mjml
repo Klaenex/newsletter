@@ -1,0 +1,105 @@
+<mj-section
+  background-color="#222222"
+  full-width="full-width"
+  padding-top="39px"
+  padding-bottom="26px"
+>
+  <mj-column width="10%">
+    <mj-image
+      src="./img/face-icon.png"
+      alt=""
+      width="26px"
+      css-class="icon"
+      href="https://www.facebook.com/FCJMP/?locale=fr_FR"
+    />
+  </mj-column>
+  <mj-column width="10%">
+    <mj-image
+      src="./img/insta-icon.png"
+      alt=""
+      width="26px"
+      css-class="icon"
+      href="https://www.instagram.com/fcjmp_asbl/"
+    />
+  </mj-column>
+  <mj-column width="10%">
+    <mj-image
+      src="./img/site-icon.png"
+      alt=""
+      width="26px"
+      css-class="icon"
+      href="http://www.fcjmp.be/"
+    />
+  </mj-column>
+</mj-section>
+<mj-section background-color="#222222" full-width="full-width">
+  <mj-column width="95.26%">
+    <mj-divider
+      border-color="rgb(255,225,145)"
+      css-class="divider"
+      border-width="2px"
+    />
+  </mj-column>
+</mj-section>
+<mj-section background-color="#222222" full-width="full-width">
+  <mj-column width="80%">
+    <mj-text>
+      <p class="text-footer">Copyright © 2022 FCJMP, All rights reserved.</p>
+    </mj-text>
+    <mj-text>
+      <p class="text-footer">
+        Bonjour, Vous êtes dans cette liste car vous souhaitez recevoir plus
+        d'informations sur nos formations
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section
+  background-color="#222222"
+  full-width="full-width"
+  padding-top="26px"
+>
+  <mj-column width="33%">
+    <mj-text>
+      <p class="text-footer">FCJMP</p>
+    </mj-text>
+    <mj-text>
+      <p class="text-footer">26 rue Saint-Ghislain</p>
+    </mj-text>
+    <mj-text>
+      <p class="text-footer">Brussels 1000</p>
+    </mj-text>
+    <mj-text>
+      <p class="text-footer">Belgium</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section
+  background-color="#222222"
+  full-width="full-width"
+  padding-top="26px"
+  padding-bottom="39px"
+>
+  <mj-column width="60%">
+    <mj-text>
+      <p class="text-footer">
+        Vous voulez changer la manière dont vous recevez ces emails ?
+      </p>
+    </mj-text>
+    <mj-text>
+      <p class="text-footer">
+        Vous pouvez
+        <a
+          href="https://fcjmp.us13.list-manage.com/profile?u=2362289d4c5344bda2ad19def&id=0b4fdc2620&e=372152294f&c=44c626cb89"
+          >mettre à jour vos préférences</a
+        >
+        ou vous
+        <a href="https://fcjmp.us13.list-manage.com/unsubscribe/post"
+          >désinscrire.</a
+        >
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

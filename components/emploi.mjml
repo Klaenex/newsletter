@@ -1,0 +1,31 @@
+<mj-section>
+  <mj-column>
+    <mj-text name="emploi">
+      <h1 id="#emploi" class="title title-section">Offres d'emploi</h1>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column width="100%" css-class="column-emploi">
+    <mj-text>
+      <h2>Les opportunités du secteur jeunesse</h2>
+    </mj-text>
+    <mj-text>
+      <p>
+        – La MJ "La Clef" :un.e animateur.rice socio-culturel.le pour un
+        mi-temps (M/F/X)
+      </p>
+    </mj-text>
+    <mj-text>
+      <p>
+        – La MJ "Cirqu'Conflex" : un.e directeur·trice d’ASBL CDI/TP (M/F/X)
+      </p>
+    </mj-text>
+    <mj-text>
+      <p>
+        – La FCJMP est à la recherche de : un.e rédacteur.trice CDI/TP (M/F/X)
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>

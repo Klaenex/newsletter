@@ -3,6 +3,7 @@
     <mj-title>FCJMP newsletter</mj-title>
 
     <mj-attributes>
+      <mj-breakpoint width="300px" />
       <mj-all font-family="Montserrat" font-size="13px" />
       <mj-section padding="0px"></mj-section>
       <mj-column padding="0px" vertical-align="bottom"></mj-column>
@@ -11,8 +12,17 @@
         font-size="13px"
         color="black"
         padding="0"
+        line-height="16px"
       ></mj-text>
       <mj-image border-radius="13px" padding="0" />
+      <mj-button
+        border-radius="25px"
+        background-color="#FFC322"
+        color="black"
+        font-weight="500"
+        padding="26px"
+      >
+      </mj-button>
     </mj-attributes>
   </mj-head>
   <mj-body background-color="white">
@@ -21,5 +31,11 @@
     <mj-include path="./components/separatorHeader.mjml" />
     <mj-include path="./components/echos.mjml" />
     <mj-include path="./components/separatorSection.mjml" />
+    <mj-include path="./components/breves.mjml" />
+    <mj-include path="./components/separatorSection.mjml" />
+    <mj-include path="./components/emploi.mjml" />
+    <mj-include path="./components/separatorSection.mjml" />
+    <mj-include path="./components/demande.mjml" />
+    <mj-include path="./components/footer.mjml" />
   </mj-body>
 </mjml>

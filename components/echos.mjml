@@ -26,10 +26,10 @@
     </mj-text>
     <mj-button> Plus d'infos </mj-button>
   </mj-column>
-  <mj-column width="50%">
+  <mj-column width="50%" css-class="column-double">
     <mj-image src="./img/cinex.png" alt="" />
     <mj-text>
-      <h2 mj-class="">Le « Cinex »</h2>
+      <h2 class="title">Le « Cinex »</h2>
     </mj-text>
     <mj-text>
       <p>

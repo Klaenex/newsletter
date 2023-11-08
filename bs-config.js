@@ -1,5 +1,5 @@
 module.exports = {
-  files: ["*.html", "*.mjml"], // Les fichiers à surveiller pour le rechargement
+  files: ["*.html", "*.mjml", "./style/*.css", "./components/*.mjml"], // Les fichiers à surveiller pour le rechargement
   server: {
     baseDir: "./", // Répertoire racine de votre projet
   },

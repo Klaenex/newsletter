@@ -1,0 +1,25 @@
+<mj-section>
+  <mj-column width="100%">
+    <mj-image
+      src="./img/demande.png"
+      alt=""
+      width="160px"
+      padding-top="39px"
+      padding-bottom="13px"
+      css-class="img-demande"
+    />
+    <mj-text align="center">
+      <p>
+        <b>
+          Si vous avez des nouvelles, des événements ou des offres d'emploi à
+          partager</b
+        >
+      </p>
+    </mj-text>
+    <mj-button
+      href="https://docs.google.com/forms/d/e/1FAIpQLSdSuGIjGIkjdswkOh0LGQqb34Jlf_MAHpZ-VAg_hIHIyOARMw/viewform"
+    >
+      Cliquer ici
+    </mj-button>
+  </mj-column>
+</mj-section>

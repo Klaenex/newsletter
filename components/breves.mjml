@@ -1,0 +1,67 @@
+<mj-section>
+  <mj-column>
+    <mj-text>
+      <h1 id="#breves" class="title title-section">Brèves du secteur</h1>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column width="50%" css-class="column-double">
+    <mj-image src="./img/croixrouge.png" alt="" />
+  </mj-column>
+  <mj-column
+    width="50%"
+    css-class="column-double column-top"
+    vertical-align="top"
+  >
+    <mj-text mj-class="title"
+      ><h2 class="title">La " Croix-Rouge "</h2>
+    </mj-text>
+    <mj-text>
+      <p>
+        Voici le deuxième appel à projet de la "Croix-Rouge" ! L'objectif est de
+        soutenir financièrement et méthodologiquement des groupes de jeunes
+        (16-25 ans) dans la réalisation de projets innovants autour de quatre
+        thématiques : précarité, santé mentale, interculturalité et
+        intergénérationnel. Les groupes gagnants recevront jusqu'à 2 000€ et un
+        accompagnement de la Croix-Rouge Jeunesse. Date limite de dépôt : 05
+        novembre 2023.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="100%">
+    <mj-button> Plus d'infos </mj-button>
+  </mj-column>
+</mj-section>
+
+<mj-include path="./separatorArticle.mjml" />
+
+<mj-section>
+  <mj-column width="50%" css-class="column-double">
+    <mj-image src="./img/4s.png" alt="" />
+  </mj-column>
+  <mj-column
+    width="50%"
+    css-class="column-double column-top"
+    vertical-align="top"
+  >
+    <mj-text mj-class="title"><h2>Le " Fonds 4S "</h2> </mj-text>
+    <mj-text>
+      <p>
+        De septembre à décembre, le " Fonds 4S " a le plaisir de proposer des
+        séances de sensibilisation ainsi que des ateliers d'échanges de
+        pratiques portant sur la politique et le plan de formation. Ces
+        opportunités d'apprentissage sont conçues pour permettre à chaque
+        participant d'explorer en profondeur ces sujets cruciaux.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="100%">
+    <mj-button> Plus d'infos </mj-button>
+  </mj-column>
+</mj-section>
